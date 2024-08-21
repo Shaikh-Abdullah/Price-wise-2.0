@@ -38,6 +38,7 @@ const Home = async () => {
         </div>
       </section>
 
+
       <section className="trending-section">
         <h2 className="section-text">List of Products</h2>
 
